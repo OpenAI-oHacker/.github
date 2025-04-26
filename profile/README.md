@@ -9,7 +9,7 @@ Welcome to **oHacker**—your AI partner in **cybersecurity**, ready to test web
 Our mission? To **proactively identify web vulnerabilities** using AI agents. We simulate controlled "hacks" to help developers secure their applications before real threats do.
 
 ## 🤖 What We Do
-We build AI agents designed for **automated web application security testing**. Think of oHacker as an AI security analyst that interacts with web applications via browser automation, attempts to identify potential weaknesses (like SQL Injection and Local File Inclusion), and generates reports detailing its findings.
+We built AI agent designed for **automated web application security testing**. Think of oHacker as an AI security analyst that interacts with web applications via browser automation, attempts to identify potential weaknesses (like SQL Injection and Local File Inclusion), and generates reports detailing its findings.
 
 ## 📂 Our Core Repository
 
