@@ -26,7 +26,7 @@ We build AI agents designed for **automated web application security testing**. 
 - **Automated Web Testing** via Browser Interaction 🌐🕵️
 - Focus on Common Web Flaws (**SQLi, LFI**, etc.) 🛡️🔍
 - Generates Actionable **Security Reports** 📄✅ (See example [here](https://github.com/OpenAI-oHacker/ohacker/blob/main/report.md))
-- Built with **Python, Playwright, and AI Agents** 🐍🧠
+- Built with **Python, Playwright, and OpenAI Agents SDK** 🐍🧠
 
 ## 📜 License
 The `ohacker` project is licensed under the **MIT License** — feel free to use, remix, and vibe with it!
